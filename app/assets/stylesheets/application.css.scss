@@ -18,7 +18,7 @@
 @import "bootstrap";
 
 .navbar-default{
-	background-color: #08088a;
+	background-color: #000;
 }
 
 #logo{
@@ -35,3 +35,26 @@
 	text-decoration: none;
 	cursor: pointer;
 }
+
+.center{
+	text-align: center;
+}
+
+.jumbotron{
+	margin-top:30px;
+	background: url("ss1.jpeg");
+	color:white;
+	background-size: cover;
+	height:550px;
+}
+
+.jumbotron h1{
+	margin-bottom: 30px;
+	margin-top:80px;
+}
+
+.btn-xlg{
+	font-size: 1.7em;
+	background-color: black;
+}
+
